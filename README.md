@@ -1,3 +1,3 @@
 # docker-baseimage
 
-This is my own baseimage
+Ubuntu 14.04 baseimage with a few extras
